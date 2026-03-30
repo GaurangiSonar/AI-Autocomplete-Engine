@@ -58,12 +58,19 @@ streamlit run app.py
 
 ## 📁 Project Structure
 AI-Autocomplete-Engine/
+
 │── app.py
+
 │── src/
+
 │   ├── trie.py
+
 │   ├── preprocess.py
+
 │   ├── autocomplete.py
+
 │── data/
+
 │── requirements.txt
 
 
