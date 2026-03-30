@@ -57,6 +57,7 @@ streamlit run app.py
 ---
 
 ## 📁 Project Structure
+```
 AI-Autocomplete-Engine/
 │── app.py
 │── src/
@@ -65,7 +66,7 @@ AI-Autocomplete-Engine/
 │   ├── autocomplete.py
 │── data/
 │── requirements.txt
-
+```
 ---
 
 ## 👩‍💻 Author
